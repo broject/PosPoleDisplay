@@ -3,7 +3,7 @@ using System.IO.Ports;
 using System.Text;
 using System.Threading;
 
-namespace GeganetCom
+namespace examples
 {
     public class PoleDisplay
     {

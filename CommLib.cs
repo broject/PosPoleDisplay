@@ -4,7 +4,7 @@ using System.Text;
 using System.IO.Ports;
 using System.Runtime.InteropServices;
 
-namespace GeganetCom
+namespace examples
 {
     public class Printer
     {
